@@ -2,10 +2,10 @@
   hosts: local
   connection: local
   vars:
-    ami_id: ami-09c813fb71547fc4f
-    sg_id: sg-07c8acf3fa6b923fa # replace with your SG ID
-    zone_id: "Z0948150OFPSYTNVYZOY" # replace with your ID
-    domain_name: "daws86s.fun"
+    ami_id: ami-0220d79f3f480ecf5
+    sg_id: sg-09d07490acc07ecdc # replace with your SG ID
+    zone_id: "Z09862333DG9EIMMVCYEW" # replace with your ID
+    domain_name: "userbolla.store"
     # we can pass instances through command line using -e
     # instances: 
     # - mongodb
